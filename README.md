@@ -13,7 +13,6 @@
 
 VelionIQ is a modern, professional Single Page Application (SPA) showcasing an AI-powered business automation platform. This project demonstrates enterprise-level frontend development with cutting-edge technologies, featuring a comprehensive suite of 6 AI tools designed to revolutionize business operations.
 
-🌐 **Live Demo**: [View Project](https://your-deployment-url.com)
 
 ## ✨ Key Features
 
@@ -151,79 +150,14 @@ npm run lint     # Run ESLint checks
 - **Scale**: Responsive typography with display fonts for headings
 - **Weights**: 400 (regular), 600 (semibold), 700 (bold)
 
-## 💼 Business Context
-
-### Product Suite
-VelionIQ showcases 6 AI-powered business automation tools:
-
-1. **🔄 Flowgenix** - Document Automation Platform
-2. **🔍 AutoRecon** - Product Matching & Reconciliation
-3. **🛡️ PriceGuard** - Rate Anomaly Detection System
-4. **📋 SmartSpec** - Product Specification Tracker
-5. **📧 InboxIntelli** - AI Email-to-ERP Bridge
-6. **✅ ClaimWise** - Warranty Claim Validation Tool
-
 ### Target Industries
 - Manufacturing & Supply Chain
 - E-commerce & Retail
 - Financial Services
 - Healthcare & Insurance
 - Automotive & Equipment
-
-## 🎯 Technical Achievements
-
-### Performance
-- ⚡ **Fast Loading**: Optimized with Vite bundling
-- 📱 **Mobile Optimized**: Perfect Lighthouse scores
-- 🎭 **Smooth Animations**: 60fps motion design
-- 🔄 **Code Splitting**: Lazy-loaded routes and components
-
-### Code Quality
-- ✅ **ESLint Integration**: Consistent code standards
-- 🔧 **Modern React Patterns**: Hooks, context, and composition
-- 📦 **Component Library**: Reusable, maintainable components
-- 🎨 **Design Tokens**: Systematic approach to styling
-
-### Developer Experience
-- 🔥 **Hot Module Replacement**: Instant feedback during development
-- 📝 **TypeScript Ready**: Prepared for type safety implementation
-- 🏗️ **Modular Architecture**: Scalable file organization
-- 🔍 **Debug Friendly**: Clear component hierarchy and state management
-
-## 📈 Key Metrics
-
-- **11 Pages**: Comprehensive content architecture
-- **11 Components**: Reusable component library
-- **6 Products**: Complete business suite showcase
-- **50+ Animations**: Engaging user interactions
-- **100% Responsive**: Cross-device compatibility
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/amazing-feature`
-3. Commit changes: `git commit -m 'Add amazing feature'`
-4. Push to branch: `git push origin feature/amazing-feature`
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**Rohit** - [whenrohitcodes](https://github.com/whenrohitcodes)
-
-## 🙏 Acknowledgments
-
-- **React Team** - For the amazing framework
-- **Vite Team** - For the blazing fast build tool
-- **Tailwind CSS** - For the utility-first approach
-- **Framer Motion** - For powerful animation capabilities
-
 ---
 
 <div align="center">
   <p>⭐ Star this repository if you found it helpful!</p>
-  <p>Made with ❤️ and cutting-edge technology</p>
 </div>
